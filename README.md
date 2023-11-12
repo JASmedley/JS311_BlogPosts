@@ -28,13 +28,25 @@
 
 <h2>Class 4: November 2</h2>
 <b>1.What do you find challenging about coding?</b>
-<p></p>
+<p>JavaScript, I think mostly understanding the syntax and how things relate to each other depending on their placement in the code. </p>
 <b>2.Talk about a project that disappointed you. What would you change?</b>
-<p></p>
+<p>I don't love my current portfolio website, I was trying to add a radial progress bar (much like a timer) to my about page but it required more JavaScript than I knew how to do at the time. I think I'd like to go back some time and see if I can't do it now that I have improved JavaScript skills.</p>
 <b>3.List three key things to consider when coding with SEO in mind.</b>
-<p></p>
+<p>Assuming you mean SEO as in Search Engine Optimization,
+    <ol>
+        <li>Having a schema markup in the HTML is important for indexing.</li>
+        <li>Don't put body elements in the <code><head></code> section, because search engines will try and index that.</li>
+        <li>Ensure image elements have [alt] attributes.</li>
+    </ol>
+    </p>
 <b>4.List five or more ways you could optimize a website to be as efficient and scalable as possible.</b>
-<p></p>
+<ol>
+    <li>Leverage the font-display CSS feature to ensure text is user-visible while webfonts are loading. </li>
+    <li>Avoid enormous network payloads.</li>
+    <li>Serve images in next-gen formats like WebP and AVIF which provide better compression than PNG or JPEG. This means faster downloads and less data consumption. </li>
+    <li>Eliminate render-blocking services by delivering critical JS/CSS inline and deferring all non-critical JS/styles. </li>
+    <li>Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity.</li>
+</ol>
 
 <h2>Class 2: October 26</h2>
 <b>1. How do you organize your code? What are some suggestions you find on the web?</b>
