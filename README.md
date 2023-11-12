@@ -38,14 +38,14 @@
 
 <h2>Class 2: October 26</h2>
 <b>1. How do you organize your code? What are some suggestions you find on the web?</b>
-<p></p>
+<p>I try and use comments to help with my code, but mostly I leave a line of space between two different formulas and collapse everything when I'm done so that it's easier to look at.</p>
 <b>2. Can you describe your workflow when you create a web page or web app?</b>
-<p></p>
+<p>Yes I can. And I will! First, I come up with a wireframe so I know the general structure. Then, I write the HTML to match that wireframe. I then add in the JavaScript code for functionality, and I finish with CSS for styling.</p>
 <b>3. You can’t work out how to solve a coding problem, where do you find the answer? Why? How do you know?</b>
-<p></p>
+<p>I use a mixture of ChatGPT and W3 schools. I use ChatGPT because I can have a conversation with it to ask any unusual questions I have in a way that W3 schools can't interact with me. I use W3 schools for examples of running the code because it is an esteemed source.</p>
 <b>4. What problems have you solved that didn’t involve you coding?</b>
-<p></p>
+<p>Most problems. I would say in all seriousness though, that thinking mathematically requires understanding more logical principles than coding principles. Like breaking down the thought process behind finding all the prime numbers in a huge sequence is something that requires more thought than code.</p>
 <b>5. Talk about your preferred development environment. (What IDE or text editor you enjoy, and why?)</b>
-<p></p>
+<p>My favorite so far is VisualStudio code, mostly because it is robust, has many plugins to help adjust the syntax of your code, a GIT terminal built in, and also VS Code Pets - the nifty little plugin to play with your pets while you code.</p>
 <b>6. How are you keeping up with the latest developments in web development?</b>
-<p></p>
+<p>Mostly via Keith in the Discord channel "Tech News".</p>
