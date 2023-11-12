@@ -11,7 +11,8 @@
 <b>5. What are the differences between <code>CHAR</code> and <code>VARCHAR</code> data types (MySQL)?</b>
 <p></p>
 <b>6.How else can the JavaScript code below be written using Node.Js to produce the same output?</b>
-<code>  console.log("first");
+<code>  
+    console.log("first");
     setTimeout(function() {
         console.log("second");
     }, 0);
@@ -21,7 +22,8 @@
 
     // first
     // third
-    // second</code>
+    // second
+</code>
 <p></p>
 
 <h2>Class 4: November 2</h2>
