@@ -1,15 +1,15 @@
 # JS311_BlogPosts
 <h2>Class 6: November 9</h2>
 <b>1. If a user attempts to create a resource that already exists—for example, an email address that’s already registered—what HTTP status code would you return?</b>
-<p></p>
+<p>403 - Already Exists</p>
 <b>2. Consider a responsive site design that requires a full-width image in all responsive states. What would be the correct way to code this to ensure the page loads the smallest image required to fill the space?</b>
 <p></p>
 <b>3. When should you npm and when should you yarn?</b>
-<p></p>
+<p>You should use npm when you are running a node app, and yarn if you are knitting (or crocheting) a sweater, socks, a hat, etc.</p>
 <b>4. How can you make sure your dependencies are safe?</b>
-<p></p>
+<p>By storing them in a databse and then pulling that database's access information into a .env file that is then stored in a gitignore so that even if the app is updated, the information for accessing the database is in a password protected database. Also just generally having good usernames and passwords. Also not making your database IPs public.</p>
 <b>5. What are the differences between <code>CHAR</code> and <code>VARCHAR</code> data types (MySQL)?</b>
-<p></p>
+<p><code>CHAR</code> is a fixed-length character data type, so you need specify a length for the data. <code>VARCHAR</code>VARCHAR stands for variable character. It is a variable-length character data type, so it can store strings of varying lengths.</p>
 <b>6.How else can the JavaScript code below be written using Node.Js to produce the same output?</b>
 <code>  
     console.log("first");
@@ -24,7 +24,16 @@
     // third
     // second
 </code>
-<p></p>
+<p>You can write 
+<code>
+    console.log("first");
+
+setImmediate(function() {
+    console.log("second");
+});
+
+console.log("third");
+</code></p>
 
 <h2>Class 4: November 2</h2>
 <b>1.What do you find challenging about coding?</b>
