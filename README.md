@@ -3,7 +3,7 @@
 <b>1. If a user attempts to create a resource that already exists—for example, an email address that’s already registered—what HTTP status code would you return?</b>
 <p>403 - Already Exists</p>
 <b>2. Consider a responsive site design that requires a full-width image in all responsive states. What would be the correct way to code this to ensure the page loads the smallest image required to fill the space?</b>
-<p> Use a media query, apply it to the image as a background-image property. So you have an element, and instead of using an <code><img></code> element, the image is the background-image to that element.</p>
+<p> Use a media query, apply it to the image as a background-image property. So you have an element, and instead of using an <img> element, the image is the background-image to that element.</p>
 <b>3. When should you npm and when should you yarn?</b>
 <p>You should use npm when you are running a node app, and yarn if you are knitting (or crocheting) a sweater, socks, a hat, etc.</p>
 <b>4. How can you make sure your dependencies are safe?</b>
