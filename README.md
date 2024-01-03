@@ -1,4 +1,46 @@
 # JS311_BlogPosts
+<h2>Class 10: November 23</h2>
+<b>How does Node.js handle child threads?</b>
+<p></p>
+<b>How can you listen on port 80 with Node?</b>
+<p></p>
+<b>What tools can be used to assure consistent style?</b>
+<p></p>
+<b>List out the differences between AngularJS and NodeJS.</b>
+<p></p>
+<b>What are the advantages of NodeJS?</b>
+<p></p>
+<b>What is meant by JSON?</b>
+<p></p>
+<b>Discuss your understanding of Agile so far.</b>
+<p></p>
+<b>How is scrum different from waterfall?</b>
+<p></p>
+<b>What are the Three Amigos in Scrum?</b>
+<p></p>
+<b>What is the “timeboxing” of a scrum process called? Describe, please.</b>
+<p></p>
+<b>What are the roles of a scrum master and product owner?</b>
+<p></p>
+
+<h2>Class 8: November 16</h2>
+<b>What is “callback hell” and how can it be avoided?</b>
+<p></p>
+<b>What are "stubs" in Node.js?</b>
+<p></p>
+<b>What are “streams” in Node.JS?</b>
+<p></p>
+<b>What does "chaining" mean in Node.JS?</b>
+<p></p>
+<b>Explain “console” in Node.JS.</b>
+<p></p>
+<b>Explain exit codes in Node.JS. List out some exit codes.</b>
+<p></p>
+<b>What is the difference between cluster and non-cluster Index?</b>
+<p></p>
+<b>What are user defined functions? What are all types of user defined functions?</b>
+<p></p>
+
 <h2>Class 6: November 9</h2>
 <b>1. If a user attempts to create a resource that already exists—for example, an email address that’s already registered—what HTTP status code would you return?</b>
 <p>403 - Already Exists</p>
